@@ -15,5 +15,3 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/awakenedsavage)
 
 ![Artjom GitHub stats](https://github-readme-stats.vercel.app/api?username=artjomrozhkov&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjomrozhkov&langs_count=8)](https://github.com/arjomrozhkov/github-readme-stats)
