@@ -1,4 +1,4 @@
-[![Header](https://github.com/artjomrozhkov/artjomrozhkov/blob/main/assets/blue_car.gif)](https://www.youtube.com/watch?v=_WAI_4T_PoM&ab_channel=GIJIN-Topic)
+[![Header](https://github.com/artjomrozhkov/artjomrozhkov/blob/main/assets/ezgif-3-982141e473.gif)](https://www.youtube.com/watch?v=_WAI_4T_PoM&ab_channel=GIJIN-Topic)
 
 ## I'm an aspiring programmer
 
