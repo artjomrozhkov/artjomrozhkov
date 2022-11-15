@@ -16,5 +16,3 @@
 
 ### Spotify
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=vxaerategqcagia6zgdaz26mn)
-
-Follow Me
