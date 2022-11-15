@@ -6,9 +6,9 @@ Latest Post
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![sharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=C%2b%2b&logoColor=239120)
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=C%2b%2b&logoColor=4479A1)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=C%2b%2b&logoColor=777BB4)
+![sharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=sharp&logoColor=239120)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=777BB4)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/awakenedsavage)
