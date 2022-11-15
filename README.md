@@ -15,6 +15,6 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/awakenedsavage)
 
 ### Spotify
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/51WoUqwDWLCKad6gQrtxg0?si=a2a016b07f5d41a0)
+[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/playlist/6dnVtf3IJntAX2Lw9eTErk?si=018bb4f2ef1c4eb0)
 
 Follow Me
