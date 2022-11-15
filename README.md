@@ -4,6 +4,9 @@
 
 Latest Post
 
-Languages and Tools
+### Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-<090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Sql](https://img.shields.io/badge/-SQL-<090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![C#](https://img.shields.io/badge/-C#-<090909?style=for-the-badge&logo=C#&logoColor=E5D3FF)
 
 Follow Me
