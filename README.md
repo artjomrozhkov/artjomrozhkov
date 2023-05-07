@@ -1,6 +1,6 @@
 [![Header](https://github.com/artjomrozhkov/artjomrozhkov/blob/main/assets/ezgif-3-982141e473.gif)](https://www.youtube.com/watch?v=_WAI_4T_PoM&ab_channel=GIJIN-Topic)
 
-## I'm an aspiring programmer
+## All I Can Do Is Work Hard!
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
